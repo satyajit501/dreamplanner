@@ -27,8 +27,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
+    "title": "Welcom To",
+    "subtitle": "DreamPlanner",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -37,14 +37,14 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "whatsapp:contact=+917504789463@s.whatsapp.com&message='i like to chat with you about dreamplanner'",
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Our Service For You",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "Birthday Decoration",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
         "img": "/assets/images/product1.jpg"
       },
