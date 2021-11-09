@@ -36,8 +36,8 @@
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "whatsapp:contact=+917504789463@s.whatsapp.com&message='i like to chat with you about dreamplanner'",
+      "text": "WhatsApp us",
+      "href": "whatsapp:contact=+917504789463@s.whatsapp.com&message=",
     }
   },
   "product": {
